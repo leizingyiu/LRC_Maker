@@ -2,6 +2,8 @@
 通过按下修饰键并单击来制作 LRC——一种我觉得更舒服的输入时间码的方法
 Making LRCs by pressing modifier key and clicking -- a way to type timecode that I feel more comfortable with
 
+![image](lrc_maker.png)
+
 ## 使用步骤
 - 第一步: 加载歌曲
 - 第二步: 在左边加载或者粘贴歌词
