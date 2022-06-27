@@ -1,7 +1,10 @@
 # LRC_Maker
 通过按下修饰键并单击来制作 LRC——一种我觉得更舒服的输入时间码的方法
-Making LRCs by pressing modifier key and clicking -- a way to type timecode that I feel more comfortable with
+Making LRCs by pressing modifier key and clicking -- a way to type timecode that I feel more comfortable with  
 
+马上使用 / use it right away 
+ <https://leizingyiu.github.io/LRC_Maker/>  
+ 
 ![image](lrc_maker.png)
 
 ## 使用步骤
